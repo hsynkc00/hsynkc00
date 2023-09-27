@@ -21,8 +21,9 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="react-native" width="40" height="40"/> </a> 
+<p 
 <a href="https://www.javascripttutorial.net/" target="_blank" rel="noreferrer"> <img src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" alt="js" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="react-native" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
