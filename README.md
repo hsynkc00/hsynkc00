@@ -17,7 +17,7 @@
 🔗 &nbsp;**Connect With Him**
 <p align="left">
 
-<a href="www.linkedin.com/in/hüseyin-koç-775b471b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hsynkc00" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/h%C3%BCseyin-ko%C3%A7-775b471b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hsynkc00" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
